@@ -5,6 +5,11 @@
 This repository contains an unofficial implemementation of The Black Sword Hack
 for the FoundryVTT.
 
+## Fork changes
+Made by [sasha-bai](https://github.com/sasha-bai)
+Critical failures and critical successes bug fixed
+Ukrainian translation added 
+
 ## Foreword
 
 This work is totally free to use and comes with a very liberal license. That
