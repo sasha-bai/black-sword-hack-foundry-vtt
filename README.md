@@ -6,7 +6,9 @@ This repository contains an unofficial implemementation of The Black Sword Hack 
 
 ## Fork changes
 Made by [sasha-bai](https://github.com/sasha-bai)
+
 Critical failures and critical successes bug fixed
+
 Ukrainian translation added 
 
 # Original readme
