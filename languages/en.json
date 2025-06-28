@@ -1,6 +1,5 @@
 {
-  "_comment": "WHY? critical_failure: Your next attribute test or attack roll should be made with disadvantage!",
-  "bsh": {
+    "bsh": {
     "armour": {
       "heavy": "Heavy (3pt)",
       "light": "Light (1pt)",
