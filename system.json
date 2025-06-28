@@ -38,6 +38,6 @@
     "systems": [],
     "requires": []
   },
-  "manifest": "https://github.com/sasha-bai/black-sword-hack-foundry-vtt/blob/master/system.json",
-  "download": "https://github.com/free-beer/black-sword-hack/archive/refs/tags/v1.2.11.zip"
+  "manifest": "https://raw.githubusercontent.com/sasha-bai/black-sword-hack-foundry-vtt/master/system.json",
+  "download": "https://github.com/sasha-bai/black-sword-hack-foundry-vtt/archive/refs/heads/master.zip"
 }
