@@ -2,13 +2,15 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H645D60)
 
-This repository contains an unofficial implemementation of The Black Sword Hack
-for the FoundryVTT.
+This repository contains an unofficial implemementation of The Black Sword Hack for the FoundryVTT.
 
 ## Fork changes
 Made by [sasha-bai](https://github.com/sasha-bai)
 Critical failures and critical successes bug fixed
 Ukrainian translation added 
+
+# Original readme
+Made by [woodzer](https://github.com/woodzer)
 
 ## Foreword
 
